@@ -10,7 +10,12 @@ Download the API collection from (https://drive.google.com/file/d/1yH_Yz4IWduvOW
 ## Server
 You can reach to the server from (https://genie.aimtech.online/)
 ## Admin Dashboard
-You can reach to the server from (https://admin.genie.aimtech.online/#/login)
+You can reach to the admin dashboard from (https://admin.genie.aimtech.online/#/login)
 Username: round13.14 AIM
 Password: admin@admin123
-
+## Testcases
+You can reach to the testcases from (https://docs.google.com/spreadsheets/d/138cKBNxP1KyptyfwBRQn9fbeUhW6EPQJ-JGB5IKK1CI/edit?gid=135223483#gid=135223483)
+## Jira
+You can reach to the bugs on Jira from (https://aimtech2nd.atlassian.net/jira/software/projects/GEN/boards/2/backlog)
+## Trello
+You can reach to the testcases on Trello from (https://trello.com/w/aimtechround14/home)
