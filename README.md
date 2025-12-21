@@ -13,6 +13,8 @@ You can reach to the server from (https://genie.aimtech.online/)
 You can reach to the admin dashboard from (https://admin.genie.aimtech.online/#/login)
 Username: round13.14 AIM
 Password: admin@admin123
+## Requriments & API documentation
+You can reach to the admin dashboard from (https://drive.google.com/drive/folders/1am98nrIP0nuxhp2h0sfIlme6eAiLzr7m)
 ## Testcases
 You can reach to the testcases from (https://docs.google.com/spreadsheets/d/138cKBNxP1KyptyfwBRQn9fbeUhW6EPQJ-JGB5IKK1CI/edit?gid=135223483#gid=135223483)
 ## Jira
